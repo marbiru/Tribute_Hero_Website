@@ -1,3 +1,9 @@
+@media screen and (min-width: 75em) {
+  html {
+    font-size: 1.5em;
+  }
+}
+
 .brown-text{
   color:white;
   text-align:center;
